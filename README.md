@@ -30,3 +30,19 @@ cd Google_Stock_Price_Prediction
 - Description:
 Contains essential stock market indicators such as open, high, low, and close prices, trading volume, adjusted prices, dividend cash, and split factor. This dataset supports comprehensive stock analysis and forecasting.
 
+## 📈 Sample Results
+Graphical comparison of actual vs. predicted stock prices is included in the project to help users visually interpret model accuracy.
+
+- Displaying the Comparative Visualization between Actual and Predicted Closing Prices
+
+<p align ="center">
+    <img src="/results/result1.png" width="1000" />
+    <em></em>
+</p>
+
+- Visulizing Loss and Mean Absolute Error vs. Epochs
+
+<p align ="center">
+    <img src="/results/result2.png" width="1000" />
+    <em></em>
+</p>
